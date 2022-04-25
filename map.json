@@ -51,6 +51,22 @@
          "id":57,
          "name":"jitsi1",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Group 1"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to enter Group 1"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
@@ -63,6 +79,22 @@
          "id":58,
          "name":"jitsi2",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Group 2"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to enter group 2."
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
@@ -75,6 +107,22 @@
          "id":59,
          "name":"jitsi3",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Group 3"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to enter group 3."
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
@@ -87,6 +135,22 @@
          "id":60,
          "name":"jitsi4",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Group 4"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to enter group 4."
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
@@ -99,6 +163,22 @@
          "id":61,
          "name":"jitsi5",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Group 5"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to enter group 5."
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
@@ -111,6 +191,22 @@
          "id":62,
          "name":"jitsi6",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Group 6"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"Press SPACE to enter group 6."
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":31,
